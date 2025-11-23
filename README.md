@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+MilakyS;Arch+Linux+User;Neovim+Enthusiast;Python+Coder;Future+C%2FC%2B%2B+Learner" />
 </p>
 
 <h1 align="center">Hi, I'm MilakyS 👋</h1>
