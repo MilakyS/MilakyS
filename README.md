@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+MilakyS;Arch+Linux+User;Python+Coder;Future+C%2FC%2B%2B+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+MilakyS;Arch+Linux+User;Python+Coder+C%2FC%2B%2B+Learner" />
 </p>
 
 <h1 align="center">Hi, I'm MilakyS 👋</h1>
@@ -18,7 +18,7 @@
 - Arch Linux user 
 - Daily Neovim enjoyer  
 - Currently focused on Python  
-- Planning to learn C and C++ soon  
+- Learning C
 
 ---
 
