@@ -16,6 +16,7 @@
 ```bash
 $ neofetch --milakys
 ```
+<img align="right" width="350" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMilakyS%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" />
 ---
 
 ## 🧑‍💻 About Me
