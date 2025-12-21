@@ -1,8 +1,5 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+MilakyS;Arch+Linux+User;Python+Coder+C%2FC%2B%2B+Learner" />
-</p>
-
+<p align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MilakyS/MilakyS/output/github-contribution-grid-snake.svg" alt="Snake" /> </p>
 <h1 align="center">Hi, I'm MilakyS 👋</h1>
 
 <div align="center">
