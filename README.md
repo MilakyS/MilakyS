@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-<p align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MilakyS/MilakyS/output/github-contribution-grid-snake.svg" alt="Snake" /> </p>
+
 <h1 align="center">Hi, I'm MilakyS 👋</h1>
 
 <div align="center">
