@@ -33,3 +33,8 @@ I'm improving it step-by-step — please don’t judge too harshly 😅
 
 🔗 Repo: [BasicsNVim](https://github.com/MilakyS/BasicsNVim)
 
+
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMilakyS%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="MilakyS Stats" /> </p>
+
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMilakyS%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" /> </p>
+
