@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=blue" />
   <img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-CLion-4EAA25?style=for-the-badge&logo=Clion&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-CLion-4EAA25?style=for-the-badge&" />
 </div>
 
 ```bash
