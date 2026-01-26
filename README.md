@@ -22,7 +22,6 @@ $ neofetch --milakys
 ## 🧑‍💻 About Me
 
 - Arch Linux user 
-- Daily Neovim enjoyer  
 - Currently focused on C
 
 
