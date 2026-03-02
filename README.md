@@ -22,7 +22,7 @@ $ neofetch --milakys
 ## 🧑‍💻 About Me
 
 - Arch Linux user 
-- Currently focused on learning C and developing ASH
+- Currently focused on learning C/C++
 
 
 ---
